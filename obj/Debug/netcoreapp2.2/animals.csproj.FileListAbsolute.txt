@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\animals\bin\Debug\netcoreapp2.2\animals.deps.json
+C:\Users\naienko\workspace\csharp\exercises\animals\bin\Debug\netcoreapp2.2\animals.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\animals\bin\Debug\netcoreapp2.2\animals.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\animals\bin\Debug\netcoreapp2.2\animals.dll
+C:\Users\naienko\workspace\csharp\exercises\animals\bin\Debug\netcoreapp2.2\animals.pdb
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.dll
+C:\Users\naienko\workspace\csharp\exercises\animals\obj\Debug\netcoreapp2.2\animals.pdb
